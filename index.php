@@ -1,6 +1,6 @@
 <?php
 
-	echo "olá mundo, novo";
+	echo "novo teste de git";
 
-	echo "olá mundo, novo";
+
 ?>
